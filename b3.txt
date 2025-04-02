@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modified in master branch
+=======
+modified in first branch
+>>>>>>> first
+resolved conflict
